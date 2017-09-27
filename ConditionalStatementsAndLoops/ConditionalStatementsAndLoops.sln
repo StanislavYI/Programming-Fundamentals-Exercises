@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TriangleOfNumbers", "TriangleOfNumbers\10.TriangleOfNumbers.csproj", "{D3163E3C-06E1-4957-A72E-D002D86D14CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ChooseADrink", "ChooseADrink\01.ChooseADrink.csproj", "{DFC30FF2-2B11-4B01-BAE4-C2E00FF14EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseADrink2.0", "ChooseADrink2.0\ChooseADrink2.0.csproj", "{EF8A1A0B-89B7-43C2-BAD7-E2739EAAEC80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3163E3C-06E1-4957-A72E-D002D86D14CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3163E3C-06E1-4957-A72E-D002D86D14CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3163E3C-06E1-4957-A72E-D002D86D14CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3163E3C-06E1-4957-A72E-D002D86D14CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC30FF2-2B11-4B01-BAE4-C2E00FF14EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC30FF2-2B11-4B01-BAE4-C2E00FF14EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC30FF2-2B11-4B01-BAE4-C2E00FF14EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC30FF2-2B11-4B01-BAE4-C2E00FF14EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8A1A0B-89B7-43C2-BAD7-E2739EAAEC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8A1A0B-89B7-43C2-BAD7-E2739EAAEC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8A1A0B-89B7-43C2-BAD7-E2739EAAEC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8A1A0B-89B7-43C2-BAD7-E2739EAAEC80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
